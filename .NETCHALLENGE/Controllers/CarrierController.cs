@@ -48,6 +48,7 @@ namespace _NETCHALLENGE.Controllers
             _db.Carriers.Add(carrier);
             _db.SaveChanges();
 
+            //yorum
             return CreatedAtRoute("GetCarriers", new { id = carrier.CarrierId }, carrier);
 
         }
