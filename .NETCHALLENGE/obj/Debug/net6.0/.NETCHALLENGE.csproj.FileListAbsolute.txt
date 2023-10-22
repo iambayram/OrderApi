@@ -1,0 +1,7 @@
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.csproj.AssemblyReference.cache
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.AssemblyInfoInputs.cache
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.AssemblyInfo.cs
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.csproj.CoreCompileInputs.cache
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.MvcApplicationPartsAssemblyInfo.cs
+/Users/bayram/Projects/.NETCHALLENGE/.NETCHALLENGE/obj/Debug/net6.0/.NETCHALLENGE.MvcApplicationPartsAssemblyInfo.cache
